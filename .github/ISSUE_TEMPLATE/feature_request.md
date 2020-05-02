@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this Quub Marketplace
+about: Suggest an idea for Quub Marketplace
 title: ''
 labels: ''
 assignees: Nobody196, robertdrakedennis
