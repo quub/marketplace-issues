@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/quub/marketplace-issues/security/policy
+    about: Please report security vulnerabilities here.
+  - name: Support / Community
+    url: https://discord.gg/invite/MTdTrZ3
+    about: Join our Discord for support, general questions, and community interaction.
